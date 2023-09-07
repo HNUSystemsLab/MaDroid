@@ -1,6 +1,6 @@
 # Clarification
 
-We have uploaded the full data of MAS on the Zenodo platform. After the acceptance of the paper, the full source code will be uploaded in the GitHub repository. Here are some introduction about MAS.
+We released the full MAS dataset on the Zenodo platform. Upon acceptance of the paper, the full source code of the automation framework and toolchain will be uploaded in the GitHub repository. Here are some introductions to MAS.
 
 
 # MAS: A Large-scale Multi-feature Dataset for Anomaly Detection of Mobile Applications
