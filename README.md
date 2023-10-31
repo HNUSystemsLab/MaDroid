@@ -1,6 +1,6 @@
 # Clarification
 
-We released the full MAS dataset on the Zenodo platform. When the paper is accepted, the full source code of the automation framework and toolchain will be uploaded in the GitHub repository. Here are some introductions to MAS.
+We released the full MaDroid dataset on the Zenodo platform. When the paper is accepted, the full source code of the automation framework and toolchain will be uploaded in the GitHub repository. Here are some introductions to MaDroid.
 
 
 # MaDroid: A Maliciousness-aware Multifeatured Dataset for Detecting Android Malware
